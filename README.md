@@ -1,4 +1,4 @@
-### Hello there 👋
+### Welcome to my GitHub page! 👋
 
 I'm from Belarus, Minsk and I'm a third year student of the [BSUIR](https://www.bsuir.by/). My specialty is mainly focused on game design, but I am also interested in programming, as I want to become a skilled [Unity Developer](https://www.linkedin.com/in/evgjeniy/) and I put all my efforts into it.
 
